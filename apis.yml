@@ -39,7 +39,6 @@ apis:
   - name: PlaceDog
     description: "Placeholder Dog pictures"
     humanURL: https://place.dog
-    baseURL: https://place.dog
     tags:
       - Animals
     properties:
